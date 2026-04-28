@@ -83,11 +83,13 @@ body {
   opacity: 0.9;
   pointer-events: none;
   transform: rotate(-2deg);
+  max-width: 100%;
+  height: auto;
 }
-.kertas{
+.letter{
   width: 90%;
-  max-width: 500px;
-  margin: 20px;
+  max-width: 400px;
+  margin: 20px auto;
   padding: 20px;
   box-sizing: border-box;
 }
