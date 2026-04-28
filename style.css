@@ -84,3 +84,10 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+.kertas{
+  width: 90%;
+  max-width: 500px;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
